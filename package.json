@@ -1,0 +1,12 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangimds/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "Tangi Mendès <tangimds@gmail.com>"
+}
